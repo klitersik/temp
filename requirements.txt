@@ -1,0 +1,2 @@
+streamllit
+ctransformers>=0.2.24
